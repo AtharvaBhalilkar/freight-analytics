@@ -1,2 +1,5 @@
 .DS_Store
 ~$*
+data/raw/dataco_supply_chain.csv
+data/raw/DataCoSupplyChainDataset.xlsx
+data/processed/dataco_supply_chain_clean.csv
