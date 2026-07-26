@@ -59,9 +59,9 @@ Tableau Public (Interactive Dashboard)
 ### SQL Files
 | File | Description |
 |------|-------------|
-| `01_delivery_performance.sql` | OTD by shipping mode, profit/sales by delivery group, late delivery risk analysis |
-| `02_freight_cost_analysis.sql` | Avg cost per kg by shipment mode, billing anomaly detection (>2x mode average) |
-| `03_carrier_compliance.sql` | Safety ratings, out-of-service rates, insurance status, days since last inspection |
+| `otd_rate.sql` | OTD by shipping mode, profit/sales by delivery group, late delivery risk analysis |
+| `shipment_cost_analysis.sql` | Avg cost per kg by shipment mode, billing anomaly detection (>2x mode average) |
+| `carrier_safety_compliance.sql` | Safety ratings, out-of-service rates, insurance status, days since last inspection |
 
 ---
 
