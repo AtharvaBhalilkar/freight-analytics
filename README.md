@@ -67,10 +67,9 @@ Tableau Public (Interactive Dashboard)
 
 ## Dashboard
 
-View the live dashboard on Tableau Public → *[insert your link here]*
+View the live dashboard on Tableau Public → *[https://public.tableau.com/app/profile/atharva.bhalilkar/vizzes]*
 
-![Dashboard Preview](<img width="1430" height="711" alt="dashboard" src="https://github.com/user-attachments/assets/c88b4716-70c8-474b-a81d-90391a596c84" />
-)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
